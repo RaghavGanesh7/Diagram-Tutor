@@ -1,0 +1,7 @@
+{
+  "name": "Diagram Tutor",
+  "description": "An AI-powered application to refine, edit, and get explanations for hand-drawn diagrams using text or voice commands. Upload or draw a sketch, and let the AI help you enhance and understand it.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
